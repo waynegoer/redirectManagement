@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://mitolyn.com/welcome/?hopId=68111b56-c621-431b-935a-8d9726fb90b7&affiliate=care8hea&sr=1",
+      "permanent": false
+    },
+    {
+      "source": "/(.*)",
+      "destination": "https://mitolyn.com/welcome/?hopId=68111b56-c621-431b-935a-8d9726fb90b7&affiliate=care8hea&sr=1",
+      "permanent": false
+    }
+  ]
+}
